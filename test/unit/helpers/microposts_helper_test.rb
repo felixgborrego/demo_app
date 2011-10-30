@@ -1,4 +1,4 @@
-require 'test_helper'
+grequire 'test_helper'
 
 class MicropostsHelperTest < ActionView::TestCase
 end
